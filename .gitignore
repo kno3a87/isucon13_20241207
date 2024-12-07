@@ -20,3 +20,7 @@
 .ssh/
 local/
 go/
+.local/
+.bash_logout
+.bashrc
+.gitconfig
