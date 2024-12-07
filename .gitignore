@@ -1,0 +1,22 @@
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# User-specific files
+.bash_history
+.local.env
+*.bak
+
+# Directories to ignore
+.bundle/
+.cache/
+.cargo/
+.config/
+.cpanm/
+.npm/
+.perl-cpm/
+.rustup/
+.ssh/
+local/
+go/
